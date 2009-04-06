@@ -70,6 +70,10 @@ will display it (neither has an effect when --puretap is specified).
   - Doesn't get the elapsed time for each 'test' (i.e. assertion.)
    (TAP output has no elapsed time convention).
 
+=head1 SOURCE
+
+http://github.com/jmason/tap-to-junit-xml/tree/master
+
 =head1 AUTHOR
 
 original, junit_xml.pl, by Matisse Enzer <matisse at matisse.net>; see
